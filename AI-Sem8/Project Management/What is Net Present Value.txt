@@ -1,0 +1,208 @@
+What is Net Present Value?
+The basic financial concept of time value money states that the money you have known is more valuable than the money you collect later on. This is because you can use it now to earn more money by running a business or buying something now and selling it later for more, or simply putting it in the bank and earning more interest. The money received in the future is also less valuable because inflation erodes its purchasing power. But how do you compare the value of money now with the value of money in the future? This is where net present value plays an important role. Let us discuss what net present value is.
+
+
+Net Present Value or NPV is the sum of the present value of cash inflows and outflows. In other words, it is the difference between the present values of cash inflows and the present value of cash outflows over some time.
+
+
+Net Present Value Formula
+NPV is a strong approach to determine if the project is profitable or not. It considers the interest rate, which is generally equivalent to the inflation rate, Hence, the real value of money now at each year of operation is considered.
+
+Following are the formulas used to calculate NPV.
+
+In case of even cash flows, the following NPV formula can be used:
+
+NPV=R×1(1+i)niInitialInvestment
+
+Here, n is the total life of the project in months, years, etc.
+
+i is the required rate of return per period.
+
+R is the estimated periodic net cash flows.
+
+
+In the case of even cash flows, the following NPV formula can be used:
+
+NPV=+ni=1R(1+i)nInitialInvestment
+
+Here, R is the assumed cash flows of the investment for the ith period
+
+i is the required rate of return per period.
+
+n is the total life of the project in months, years, etc.
+
+
+NPV can also be calculated as:
+
+NPV = Present Value of expected cash flows - Present value of cash invested.
+
+
+NPV Decision Rule
+The following NPV signs explain whether the investment is good or bad.
+
+NPV > 0 - The present value of cash inflows is more than the present value of cash outflows. The money earned on the investment is more than the money invested. Hence, it is a good investment.
+
+NPV = 0 - The present value of cash flows is more than the present value of cash outflows. The money earned on the investment is equal to the money invested. Therefore, there is no difference between cash inflows and cash outflows.
+
+NPV < 0 - The present value of cash inflows is less than the present value of cash outflows. The money earned on the investment is less than the money invested. Hence, it is not a fruitful investment.
+
+
+Following are the NPV decisions which can be made by looking at the above NPV signs:
+
+In the case of the standalone project, accept the project if NPV is positive or greater than 0, reject a project if NPV is negative or less than 0, and stay indifferent between accepting or rejecting the project if NPV is 0. In the case of competing projects (mutually exclusive projects), accept the project with greater NPV.
+
+
+Role of NPV
+Net present value (NPV) is the difference between the present value of an investment and the cost resulting from an investment. The points given below define the role of NPV accurately.
+
+A positive NPV indicates that the investors financial position will be improved by undertaking a project.
+
+A negative NPV indicates the financial loss of an investor.
+
+Null or zero NPV indicates that the present value of all the benefits over useful time is equivalent to the present value of cost.
+
+
+How to Calculate Net Present Value Example?
+As we know, money is worth more than it is later. For example, 1000 dollar today is worth more than 1000 in three years. This is because you can take 1000 today, and invest it at a rate of 4% each year. In three years, 1000 will be worth 1124.86. It means the present value of investment 1000 will be 1124.86 after 3 years without considering the inflation rate.
+
+
+The most important factor that should be considered is the dynamic inflation rate. If you will not invest your money, your 1000 will be 915.14 in three years. These numbers can be calculated by using the following present value formula.
+
+
+Present Value = (Future Value)/(1 + r)n
+
+Here,
+
+r is the interest rate.
+
+n is the number of years.
+
+With this, we can easily calculate NPV by adding and subtracting all the present values:
+
+Add all the present values that you receive.
+
+Subtract all the present value that you pay.
+
+Let us now understand net present value calculation examples to understand the concept appropriately.
+
+
+Net Present Value Calculation Example
+One of your friends needs 500 now and promised to pay you back 500 in a year. Is that a fruitful investment when you can invest at 10% elsewhere?
+
+Solution:
+
+Money Invested Now = 500
+
+So PV = -500
+
+Money Received After a Year = 570
+
+So,PV=FV(1+r)n
+
+PV=570(1+0.10)1
+
+PV=5701.101=$518.1
+
+Net Present Value = 518.18 - 500 = 18.18
+
+Therefore, at 10%, the investment is worth 18.18.
+
+In other words, it states that 18.18 is better than a 10% investment in todays value of money.
+
+
+Net Present Values Problems With Solutions
+Let us understand a few net value problems to understand the concept precisely.
+
+1. Suppose a project requires an initial investment of 2000 and it is expected to generate a cash flow of 100 for 3 years plus 12500 in the third year. The target rate of return of the project is 10% per annum. Calculate the net present value of the project.
+
+Solution:
+
+Money Invested Now = 2000 
+
+So, PV now = - 2000
+
+Year1:PV=FV(1+r)n=100(1+0.10)1=1001.101=$90.91
+
+Year2:PV=FV(1+r)n=100(1+0.10)2=1001.102=$82.64
+
+Year3:PV=FV(1+r)n=100(1+0.10)3=1001.103=$75.13
+
+Year3(FinalPayment)=FV(1+r)n=250(1+0.10)3=2501.103=$1878.29
+
+= 1878.29
+
+Adding Total Cash Inflows = 90.91 + 82.64 + 75.13 + 1878.29 = 2126.97
+
+NPV = 2126.97 - 2000 = 126.97
+
+Therefore, NPV of the project at 10% is 126.97
+
+It seems like a good investment.
+
+
+2. Assume that ABC Inc is considering two projects namely Project X and Project Y and wants to calculate the NPV for each project. Both project X and project Y is four-year project and cash flows of both the projects for four years are given below:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The firm's cost of capital is 10% for each project and the initial investment amount is 10,000. Calculate the NPV of each project and determine in which project the firm should invest.
+
+Solution:
+
+Following is the calculation of NPV for project X and project Y.
+
+Project X NPV Calculation
+
+Money Invested Now = 2000
+
+So, PV now = - 10,000
+
+Year1:PV=FV(1+r)n=5000(1+0.10)1=50001.101=$4545.45
+
+Year2:PV=FV(1+r)n=4000(1+0.10)2=40001.102=$3305.78
+
+Year3:PV=FV(1+r)n=3000(1+0.10)3=30001.103=$2253.94
+
+Year4:PV=FV(1+r)n=1000(1+0.10)4=10001.104=$683.01
+
+Total Cash Inflows = 4545.45 + 3305.78 + 2253.94 + 683.01 = 2126.97
+
+NPV = 10,788 - 10000 = 788.38
+
+Therefore, NPV of the project X at 10% is 788.38
+
+
+Project Y NPV Calculation
+
+Money Invested Now = 10000
+
+So, PV = - 10,000
+
+Year1:PV=FV(1+r)n=1000(1+0.10)1=10001.101=$909.09
+
+Year2:PV=FV(1+r)n=3000(1+0.10)2=30001.102=$2479.33
+
+Year3:PV=FV(1+r)n=4000(1+0.10)3=40001.103=$3053.43
+
+Year4:PV=FV(1+r)n=6750(1+0.10)4=67501.104=$4610.34
+
+Total Cash Inflows = 909.09 + 2479.33 + 3005.25 + 4610.34 = 11004.01
+
+NPV = 11,004.01- 10000 = 1004.01
+
+Therefore, NPV of the project Y at 10% is 1004.01
+
+We can see, the NPV of project Y is greater than the NPV of project X. Hence, the firm should invest in project Y.
